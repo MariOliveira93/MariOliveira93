@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Sou uma **desenvolvedora frontend** apaixonado por criar **interfaces modernas, funcionais e responsivas** que oferecem excelentes experiências ao usuário.
+Sou uma **desenvolvedora frontend** apaixonada por criar **interfaces modernas, funcionais e responsivas** que oferecem excelentes experiências ao usuário.
 
 ## 🛠️ Habilidades
 
