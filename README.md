@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá!
 
-<!--
-**MariOliveira93/MariOliveira93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma **desenvolvedora frontend** apaixonado por criar **interfaces modernas, funcionais e responsivas** que oferecem excelentes experiências ao usuário.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linguagens:**  
+HTML5, CSS3, JavaScript (ES6+), SQL
+
+**Frameworks/Bibliotecas:**  
+React.js, Vue.js, Angular, Node.js
+
+**Ferramentas:**  
+Git, GitHub, Axios, Fetch API
+
+Gosto de transformar ideias em interfaces elegantes, com foco em **usabilidade, desempenho e acessibilidade**.  
+Vamos construir algo incrível juntos!
+
+
+Sinta-se à vontade para me chamar!
