@@ -10,7 +10,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | Em busca de oportunidade d
 HTML5, CSS3, JavaScript (ES6+), SQL
 
 **Frameworks/Bibliotecas:**  
-React.js, TypeScript.js, Node.js
+React.js, TypeScript.js, Node.js (básico)
 
 **Ferramentas:**  
 Git, GitHub, Axios, Fetch API
