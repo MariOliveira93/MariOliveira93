@@ -8,7 +8,7 @@ Sou uma **desenvolvedora frontend** apaixonada por criar **interfaces modernas, 
 HTML5, CSS3, JavaScript (ES6+), SQL
 
 **Frameworks/Bibliotecas:**  
-React.js, Vue.js, Angular, Node.js
+React.js, Vue.js, Node.js
 
 **Ferramentas:**  
 Git, GitHub, Axios, Fetch API
