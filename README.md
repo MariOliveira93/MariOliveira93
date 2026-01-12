@@ -6,14 +6,15 @@ Estudante de Análise e Desenvolvimento de Sistemas | Em busca de oportunidade d
 
 ## 🛠️ Habilidades
 
-**Linguagens:**  
-HTML5, CSS3, JavaScript (ES6+), SQL
+Front-End:
+HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js
 
-**Frameworks/Bibliotecas:**  
-React.js, TypeScript.js, Node.js (básico)
+Consumo de APIs:
+Fetch API, Axios, REST
 
-**Ferramentas:**  
-Git, GitHub, Axios, Fetch API
+Versionamento:
+Git, GitHub
+
 
 Gosto de transformar ideias em interfaces elegantes, com foco em **usabilidade, desempenho e acessibilidade**.  
 Vamos construir algo incrível juntos!
