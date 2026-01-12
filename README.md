@@ -1,6 +1,8 @@
 # 👋 Olá!
 
-Sou uma **desenvolvedora frontend** apaixonada por criar **interfaces modernas, funcionais e responsivas** que oferecem excelentes experiências ao usuário.
+Sou desenvolvedora Front-End em formação, com foco em React.js e TypeScript.
+Experiência prática em criação de interfaces responsivas, consumo de APIs REST e componentização.
+Estudante de Análise e Desenvolvimento de Sistemas | Em busca de oportunidade de estágio/júnior.
 
 ## 🛠️ Habilidades
 
